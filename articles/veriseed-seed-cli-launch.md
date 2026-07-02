@@ -3,7 +3,7 @@ title: "開発用DBが空っぽ問題を、コマンド1つで終わらせる CL
 emoji: "🌱"
 type: "tech"
 topics: ["postgresql", "prisma", "nodejs", "cli", "opensource"]
-published: false
+published: true
 ---
 
 ## 「とりあえずDBに何か入れる」が地味にしんどい
